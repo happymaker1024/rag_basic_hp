@@ -1,0 +1,5 @@
+김민수 강사님
+
+코드 깃허브 주소 : https://github.com/rlaalstn1504/2-Day-RAG-Based-AI-Application-Design-2026
+
+OPENAI_API_KEY =
